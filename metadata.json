@@ -1,0 +1,6 @@
+{
+  "name": "AutoTask Workspace",
+  "description": "Automated team task assignment, real-time stakeholder progress dashboard, AI weekly executive email summaries, drag-and-drop Kanban, automated urgency sorting, end-to-end encryption, and offline-first cloud synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
